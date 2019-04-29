@@ -5,7 +5,7 @@ h1
   border-color:rgba(10,34,250,.3);
   border-style: solid;
 
-background:url(https://www.thekitchentruth.com/wp-content/uploads/2014/02/coffee.jpg);
+background:url(https://cdn.pixabay.com/photo/2015/07/28/20/51/drink-864958_960_720.jpg);
  */
 background-size: cover;
 }
@@ -17,7 +17,7 @@ body
            clear:right;
        font-size:16px;
 	
-background: url(https://www.thekitchentruth.com/wp-content/uploads/2014/02/coffee.jpg);
+background: url(https://cdn.pixabay.com/photo/2015/07/28/20/51/drink-864958_960_720.jpg);
 background-repeat: no-repeat;
 background-size:cover;
  width:100%;
@@ -47,5 +47,5 @@ width:9%;
 height: 50%;
 padding-left:30px; 
 margin:3px;
-float:right; 
+float:right;  
 }
